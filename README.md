@@ -1,3 +1,8 @@
-# spring_cloud
-1.Eureka 组件学习记录
-2.Ribbon 组件学习记录
+#Eureka 组件学习记录
+##### 1.1 搭建EurekaServer注册中心
+#####  1.2 将服务注册到注册中心
+##### 1.3 Eureka中通过元数据获取服务实例信息
+#####  1.4 Eureka 高可用集群
+#2.Ribbon 组件学习记录
+##### 2.1 服务调用
+##### 2.2 Ribbon负载均衡
