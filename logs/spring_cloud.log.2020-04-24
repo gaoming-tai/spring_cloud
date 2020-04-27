@@ -1,0 +1,755 @@
+2020-04-24 00:00:57,172  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 00:01:57,173  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:02:57,173  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:02:58,174  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 00:03:57,173  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:04:57,174  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:05:57,174  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:06:31,594  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 00:06:57,175  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:07:57,176  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:08:57,176  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:09:57,177  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:10:57,177  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:11:57,178  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:12:57,178  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:13:57,179  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:14:57,179  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:15:57,180  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:16:31,595  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 00:16:57,180  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:17:57,181  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:17:58,175  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 00:18:57,181  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:19:57,182  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:20:57,182  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:21:57,182  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:22:57,182  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:23:57,183  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:24:57,183  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:25:57,183  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:26:31,597  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 00:26:57,183  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:27:57,184  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:28:57,185  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:29:57,185  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:30:57,186  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:31:57,187  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:32:57,187  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:32:58,175  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 00:33:57,188  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:34:57,189  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:35:57,190  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:36:31,599  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 00:36:57,191  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 00:37:57,191  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:38:57,191  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:39:57,192  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:40:57,192  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:41:57,193  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:42:57,193  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:43:57,193  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:44:57,194  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:45:57,194  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:46:31,602  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 00:46:57,195  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:47:57,196  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:47:58,197  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 00:48:57,196  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:49:57,196  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:50:57,198  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 00:51:57,198  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:52:57,198  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:53:57,199  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:54:57,199  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:55:57,200  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:56:31,603  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 00:56:57,201  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 00:57:57,201  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:58:57,202  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 00:59:57,202  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:00:57,202  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:01:57,202  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:02:57,203  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:02:58,178  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 01:03:57,203  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:04:57,204  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 01:05:57,205  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:06:31,604  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 01:06:57,205  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:07:57,205  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:08:57,206  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:09:57,206  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:10:57,206  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:11:57,207  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:12:57,207  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:13:57,208  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 01:14:57,208  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:15:57,209  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:16:31,606  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 01:16:57,210  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:17:57,210  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:17:58,177  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 01:18:57,210  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:19:57,210  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:20:57,211  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:21:57,211  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:22:57,212  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:23:57,212  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:24:57,213  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:25:57,213  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:26:31,607  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 01:26:57,214  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:27:57,214  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:28:57,214  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:29:57,214  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:30:57,215  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:31:57,216  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:32:57,216  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:32:58,177  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 01:33:57,216  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:34:57,217  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:35:57,217  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:36:31,608  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 01:36:57,218  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:37:57,218  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:38:57,218  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:39:57,219  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:40:57,219  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:41:57,220  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:42:57,221  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:43:57,221  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:44:57,221  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:45:57,222  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:46:31,611  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 01:46:57,222  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:47:57,222  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:47:58,178  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 01:48:57,223  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:49:57,223  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:50:57,224  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:51:57,224  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:52:57,224  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:53:57,225  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:54:57,225  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:55:57,226  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:56:31,612  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 01:56:57,227  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:57:57,227  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:58:57,227  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 01:59:57,228  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:00:57,228  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:01:57,229  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:02:57,230  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:02:58,179  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 02:03:57,230  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:04:57,231  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:05:57,231  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:06:31,613  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 02:06:57,232  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:07:57,233  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:08:57,233  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:09:57,233  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:10:57,233  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:11:57,234  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:12:57,234  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:13:57,235  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:14:57,235  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:15:57,236  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:16:31,614  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 02:16:57,236  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:17:57,237  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:17:58,180  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 02:18:57,237  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:19:57,238  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:20:57,238  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 02:21:57,239  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:05:38,251  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 16982629ms
+2020-04-24 07:06:38,251  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:07:38,252  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:08:38,253  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:09:12,611  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 07:09:38,253  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:10:38,254  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:11:38,254  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:12:38,255  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:13:38,255  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:14:38,256  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:15:38,256  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:15:39,178  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 07:16:38,257  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:17:38,258  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 07:18:38,259  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:19:12,625  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 07:19:38,259  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:20:38,259  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:21:38,260  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:22:38,260  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:23:38,260  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:24:38,261  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:25:38,262  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:26:38,262  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:27:38,263  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 07:28:38,263  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:29:12,625  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 07:29:38,264  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:30:38,265  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:30:39,178  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 07:31:38,265  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:32:38,265  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:33:38,266  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:34:38,266  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:35:38,266  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:36:38,267  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:37:38,267  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:38:38,268  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:39:12,649  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 07:39:38,268  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:40:38,269  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:41:38,269  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:42:38,270  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:43:38,270  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:44:38,271  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:45:38,271  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:45:39,178  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 5
+2020-04-24 07:46:38,271  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:47:38,272  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:48:38,272  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:49:12,672  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 07:49:38,307  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:50:38,273  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:51:38,274  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:52:38,274  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:53:38,275  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 07:54:38,275  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:28:53,378  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-24 08:28:57,371  INFO EurekaServerApplication:651 - No active profile set, falling back to default profiles: default
+2020-04-24 08:28:58,443  WARN EndpointId:155 - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2020-04-24 08:28:58,595  INFO GenericScope:295 - BeanFactory id=408329f6-27fa-3323-bd6d-0438068198ad
+2020-04-24 08:28:59,497  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9000 (http)
+2020-04-24 08:29:00,244  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 2853 ms
+2020-04-24 08:29:00,397  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-24 08:29:00,398  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-24 08:29:00,408  INFO DynamicPropertyFactory:281 - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@7f5eae0f
+2020-04-24 08:29:01,941  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-24 08:29:01,942  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-24 08:29:02,959  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-24 08:29:02,959  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-24 08:29:03,337  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-24 08:29:03,337  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-24 08:29:03,513  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 08:29:04,750  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-24 08:29:04,801  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-24 08:29:04,827  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-24 08:29:04,827  INFO DiscoveryClient:371 - Client configured to neither register nor query for data.
+2020-04-24 08:29:04,835  INFO DiscoveryClient:384 - Discovery Client initialized at timestamp 1587688144833 with initial instances count: 0
+2020-04-24 08:29:04,873  INFO DefaultEurekaServerContext:66 - Initializing ...
+2020-04-24 08:29:04,876  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 08:29:04,894  INFO AbstractInstanceRegistry:153 - Finished initializing remote region registries. All known remote regions: []
+2020-04-24 08:29:04,895  INFO DefaultEurekaServerContext:73 - Initialized
+2020-04-24 08:29:04,909  INFO EndpointLinksResolver:58 - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-24 08:29:05,013  INFO EurekaServiceRegistry:41 - Registering application EUREKA_SERVER with eureka with status UP
+2020-04-24 08:29:05,101  INFO EurekaServerBootstrap:110 - Setting the eureka configuration..
+2020-04-24 08:29:05,102  INFO EurekaServerBootstrap:115 - Eureka data center value eureka.datacenter is not set, defaulting to default
+2020-04-24 08:29:05,103  INFO EurekaServerBootstrap:129 - Eureka environment value eureka.environment is not set, defaulting to test
+2020-04-24 08:29:05,122  INFO EurekaServerBootstrap:188 - isAws returned false
+2020-04-24 08:29:05,123  INFO EurekaServerBootstrap:153 - Initialized server context
+2020-04-24 08:29:05,123  INFO PeerAwareInstanceRegistryImpl:242 - Got 1 instances from neighboring DS node
+2020-04-24 08:29:05,123  INFO PeerAwareInstanceRegistryImpl:243 - Renew threshold is: 1
+2020-04-24 08:29:05,124  INFO PeerAwareInstanceRegistryImpl:254 - Changing status to UP
+2020-04-24 08:29:05,151  INFO EurekaServerInitializerConfiguration:72 - Started Eureka Server
+2020-04-24 08:29:05,183  INFO TomcatWebServer:204 - Tomcat started on port(s): 9000 (http) with context path ''
+2020-04-24 08:29:05,185  INFO EurekaAutoServiceRegistration:145 - Updating port to 9000
+2020-04-24 08:29:06,054  INFO EurekaServerApplication:61 - Started EurekaServerApplication in 13.209 seconds (JVM running for 17.631)
+2020-04-24 08:29:07,386  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2020-04-24 08:29:07,402  INFO DispatcherServlet:547 - Completed initialization in 16 ms
+2020-04-24 08:29:09,126  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:29:13,126  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:29:17,127  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:29:21,128  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:29:25,129  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:29:29,130  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:29:33,133  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 4ms
+2020-04-24 08:29:37,134  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:29:41,134  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:29:45,135  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:29:49,135  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:29:53,135  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:29:57,136  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:01,136  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:05,137  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:09,137  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:13,138  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:17,138  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:21,138  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:25,139  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:29,139  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:33,140  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:37,140  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:41,140  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:45,141  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:49,141  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:53,141  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:30:57,142  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:01,142  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:05,143  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:09,143  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:13,143  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:17,144  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:21,145  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:25,145  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:29,145  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:33,146  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:37,147  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:41,147  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:45,148  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:49,148  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:53,149  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:31:57,149  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:01,150  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:05,151  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:09,151  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:13,152  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 08:32:17,153  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:21,153  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:25,154  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:29,155  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:33,156  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:37,156  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:41,157  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:45,158  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:49,159  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:53,159  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:32:57,160  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:01,161  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:05,161  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:09,162  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:13,162  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:17,163  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:21,163  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:25,164  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:29,164  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:33,165  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:37,165  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:41,165  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:45,165  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:49,166  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:53,167  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:33:57,167  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:01,168  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:05,169  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:09,170  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:13,170  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:17,170  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:21,171  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:25,172  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 08:34:29,172  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:33,173  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:37,173  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:41,174  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:45,175  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:49,175  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:53,175  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:34:57,175  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:01,176  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:05,176  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:09,177  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:13,177  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:17,178  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:21,178  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:25,179  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:29,179  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:33,180  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:37,180  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:41,181  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:45,181  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:49,181  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:53,182  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:35:57,182  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:01,183  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:05,193  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 9ms
+2020-04-24 08:36:09,193  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:13,194  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:17,194  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:21,194  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:25,195  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:29,195  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:33,196  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:37,196  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:41,196  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:45,196  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:49,197  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:36:53,198  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 08:36:57,199  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:01,199  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:05,200  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:09,200  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:13,200  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:17,200  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:21,201  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 08:37:25,201  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:29,202  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:33,203  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:37,203  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:41,203  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:45,203  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:49,204  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:53,204  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:37:57,204  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:01,205  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:05,205  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:09,206  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:13,206  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:17,207  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:21,207  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:25,208  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:29,208  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:33,208  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:37,209  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:41,209  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:45,210  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:49,210  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:53,211  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:38:57,212  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:01,213  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:04,878  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 08:39:05,213  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:09,214  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:13,215  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:17,215  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:21,216  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:25,217  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:29,217  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:33,218  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:37,218  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:41,218  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:45,218  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:49,218  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:53,219  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:39:57,219  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:01,220  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:05,220  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:09,220  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:13,221  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:17,221  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:21,221  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:25,221  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:29,222  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:33,223  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:37,223  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:41,224  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:45,224  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:49,225  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:53,225  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:40:57,226  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:01,226  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:05,227  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:09,227  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:13,228  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:17,228  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:21,229  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:25,229  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:29,230  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:33,230  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:37,231  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:41,231  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:45,232  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:49,232  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:53,232  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:41:57,233  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:01,234  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:05,235  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:09,235  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:13,235  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:17,235  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:21,236  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:25,236  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:29,236  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:33,236  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:37,237  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:41,238  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:45,238  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:49,238  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:53,238  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:42:57,239  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:01,240  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:05,240  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:09,241  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:13,242  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:17,243  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:21,244  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:25,245  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:29,245  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:33,246  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:37,246  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:41,246  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:45,247  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:49,248  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:53,249  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:43:57,249  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:01,249  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:04,894  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 0
+2020-04-24 08:44:05,250  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:09,250  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:13,251  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:17,251  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:21,252  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:25,252  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:29,253  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:33,253  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:37,253  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:41,254  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:45,254  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:49,254  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:53,255  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:44:57,255  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:01,255  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:05,256  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:09,257  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:13,258  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:17,258  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:21,259  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:25,259  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:29,260  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:33,260  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:37,261  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:41,262  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 08:45:45,263  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:49,264  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:53,265  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:45:57,265  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:01,265  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:05,265  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:09,266  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:13,267  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:17,267  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:21,268  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:25,268  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:29,269  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:33,269  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:37,269  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:41,270  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:45,270  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:49,271  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:53,271  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:46:57,271  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:01,272  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:05,272  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:09,273  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:13,273  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:17,274  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:21,274  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:25,275  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:29,275  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:33,276  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:37,277  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:41,277  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:45,278  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:49,279  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:53,280  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:47:57,280  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:01,281  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:05,281  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:09,282  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:13,282  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:17,283  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:21,284  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:25,284  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:29,284  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:33,285  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:37,286  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:41,286  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:45,287  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:49,288  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:53,288  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:48:57,288  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:01,289  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:04,879  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 08:49:05,289  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:09,289  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:13,290  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:17,290  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:21,290  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:25,291  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:29,291  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:33,292  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:37,292  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:41,292  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:45,293  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:49,293  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:53,294  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:49:57,294  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:01,294  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:05,295  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 08:50:09,296  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:13,296  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:17,296  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:21,297  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:25,298  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:29,298  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:33,299  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:37,299  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:41,300  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:45,301  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:49,301  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:53,301  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:50:57,302  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:01,302  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:05,302  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:09,303  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:13,304  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:17,304  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:21,305  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:25,305  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:29,306  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:33,306  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:37,307  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:41,307  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:45,307  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:49,308  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:53,308  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:51:57,309  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:01,310  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:05,310  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:09,311  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:13,312  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:17,312  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:21,312  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:25,313  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:29,313  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:33,314  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:37,314  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:41,314  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:45,315  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:49,316  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 08:52:53,316  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:52:57,317  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:01,317  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:05,317  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:09,318  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:13,319  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:17,319  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:21,319  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:25,319  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:29,320  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:33,320  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:37,321  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:41,322  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:45,323  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:49,323  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:53,323  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:53:57,324  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:01,324  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:05,325  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:09,325  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:13,325  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:17,326  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:21,326  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:25,327  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:29,328  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:33,328  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:37,329  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:41,329  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:45,330  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:49,330  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:53,331  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:54:57,331  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:01,331  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:05,332  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:09,332  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:13,333  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:17,334  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:21,334  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:25,334  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:29,335  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:33,336  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:37,336  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:41,337  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:45,337  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:49,338  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:53,338  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:55:57,339  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:56:01,340  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:56:05,340  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:56:09,341  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:56:13,341  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:56:17,342  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 08:56:21,342  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:13:33,854  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-24 09:13:51,323  INFO EurekaServerApplication:651 - No active profile set, falling back to default profiles: default
+2020-04-24 09:13:54,758  WARN EndpointId:155 - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2020-04-24 09:13:55,103  INFO GenericScope:295 - BeanFactory id=408329f6-27fa-3323-bd6d-0438068198ad
+2020-04-24 09:13:56,067  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9000 (http)
+2020-04-24 09:13:57,223  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 5750 ms
+2020-04-24 09:13:57,478  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-24 09:13:57,479  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-24 09:13:57,528  INFO DynamicPropertyFactory:281 - DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@5cb042da
+2020-04-24 09:14:00,237  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-24 09:14:00,238  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-24 09:14:00,783  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-24 09:14:00,783  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-24 09:14:01,526  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-24 09:14:01,526  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-24 09:14:01,876  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 09:14:03,676  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-24 09:14:03,859  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-24 09:14:04,028  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-24 09:14:04,028  INFO DiscoveryClient:371 - Client configured to neither register nor query for data.
+2020-04-24 09:14:04,083  INFO DiscoveryClient:384 - Discovery Client initialized at timestamp 1587690844049 with initial instances count: 0
+2020-04-24 09:14:04,186  INFO DefaultEurekaServerContext:66 - Initializing ...
+2020-04-24 09:14:04,188  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 09:14:04,216  INFO AbstractInstanceRegistry:153 - Finished initializing remote region registries. All known remote regions: []
+2020-04-24 09:14:04,217  INFO DefaultEurekaServerContext:73 - Initialized
+2020-04-24 09:14:04,250  INFO EndpointLinksResolver:58 - Exposing 2 endpoint(s) beneath base path '/actuator'
+2020-04-24 09:14:04,355  INFO EurekaServiceRegistry:41 - Registering application EUREKA_SERVER with eureka with status UP
+2020-04-24 09:14:04,359  INFO EurekaServerBootstrap:110 - Setting the eureka configuration..
+2020-04-24 09:14:04,359  INFO EurekaServerBootstrap:115 - Eureka data center value eureka.datacenter is not set, defaulting to default
+2020-04-24 09:14:04,361  INFO EurekaServerBootstrap:129 - Eureka environment value eureka.environment is not set, defaulting to test
+2020-04-24 09:14:04,400  INFO EurekaServerBootstrap:188 - isAws returned false
+2020-04-24 09:14:04,400  INFO EurekaServerBootstrap:153 - Initialized server context
+2020-04-24 09:14:04,401  INFO PeerAwareInstanceRegistryImpl:242 - Got 1 instances from neighboring DS node
+2020-04-24 09:14:04,401  INFO PeerAwareInstanceRegistryImpl:243 - Renew threshold is: 1
+2020-04-24 09:14:04,401  INFO PeerAwareInstanceRegistryImpl:254 - Changing status to UP
+2020-04-24 09:14:04,411  INFO EurekaServerInitializerConfiguration:72 - Started Eureka Server
+2020-04-24 09:14:04,427  INFO TomcatWebServer:204 - Tomcat started on port(s): 9000 (http) with context path ''
+2020-04-24 09:14:04,429  INFO EurekaAutoServiceRegistration:145 - Updating port to 9000
+2020-04-24 09:14:05,207  INFO EurekaServerApplication:61 - Started EurekaServerApplication in 34.146 seconds (JVM running for 40.541)
+2020-04-24 09:14:05,849  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2020-04-24 09:14:05,887  INFO DispatcherServlet:547 - Completed initialization in 37 ms
+2020-04-24 09:15:04,403  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:16:04,404  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:17:04,404  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:18:04,405  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:19:04,405  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:20:04,406  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:21:04,406  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:22:04,406  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:23:04,407  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:24:04,191  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 09:24:04,408  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:25:04,408  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:26:04,408  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:27:04,408  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:28:04,408  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:29:04,216  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 0
+2020-04-24 09:29:04,409  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:30:04,409  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:30:31,766  INFO AbstractInstanceRegistry:266 - Registered instance EUREKA_CLIENT_EXAMPLE2/192.168.2.156:9002 with status UP (replication=false)
+2020-04-24 09:31:04,410  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:32:04,411  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:33:04,411  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:34:04,193  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 09:34:04,411  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:35:04,412  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:36:04,413  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 1ms
+2020-04-24 09:37:04,413  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:38:04,414  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:39:04,414  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:40:04,415  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:41:04,415  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:42:04,415  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:43:04,416  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:44:04,195  WARN PeerEurekaNodes:155 - The replica size seems to be empty. Check the route 53 DNS Registry
+2020-04-24 09:44:04,217  INFO PeerAwareInstanceRegistryImpl:534 - Current renewal threshold is : 0
+2020-04-24 09:44:04,416  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms
+2020-04-24 09:45:04,417  INFO AbstractInstanceRegistry:1247 - Running the evict task with compensationTime 0ms

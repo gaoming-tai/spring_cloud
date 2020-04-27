@@ -1,0 +1,581 @@
+2020-04-27 15:09:03,022  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-27 15:09:06,455  INFO EurekaClientApplication:655 - The following profiles are active: dev
+2020-04-27 15:09:08,836  INFO GenericScope:295 - BeanFactory id=f75c0cb4-ec96-38e9-b95c-27f600528ceb
+2020-04-27 15:09:08,976  INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-27 15:09:09,349  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9001 (http)
+2020-04-27 15:09:09,541  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 2776 ms
+2020-04-27 15:09:10,588  INFO PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-27 15:09:10,629  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:09:10,629  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:09:10,633  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:09:10,634  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:09:10,745  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 15:09:12,658  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-27 15:09:12,768  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-27 15:09:12,799  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-27 15:09:12,978  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-27 15:09:12,979  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-27 15:09:13,131  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-27 15:09:13,132  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-27 15:09:13,341  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:09:13,732  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-27 15:09:13,732  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-27 15:09:13,732  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-27 15:09:13,733  INFO DiscoveryClient:984 - Application is null : false
+2020-04-27 15:09:13,733  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-27 15:09:13,733  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-27 15:09:13,734  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-27 15:09:13,905  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-27 15:09:13,908  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 30
+2020-04-27 15:09:13,910  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-27 15:09:13,914  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587971353913 with initial instances count: 1
+2020-04-27 15:09:13,916  INFO EurekaServiceRegistry:41 - Registering application EUREKA-CLIENT-EXAMPLE1 with eureka with status UP
+2020-04-27 15:09:13,917  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587971353917, current=UP, previous=STARTING]
+2020-04-27 15:09:13,920  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9001: registering service...
+2020-04-27 15:09:13,921  INFO DocumentationPluginsBootstrapper:160 - Context refreshed
+2020-04-27 15:09:13,982  INFO DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+2020-04-27 15:09:14,028  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9001 - registration status: 204
+2020-04-27 15:09:14,052  INFO ApiListingReferenceScanner:41 - Scanning for api listing references
+2020-04-27 15:09:14,348  INFO TomcatWebServer:204 - Tomcat started on port(s): 9001 (http) with context path ''
+2020-04-27 15:09:14,349  INFO EurekaAutoServiceRegistration:145 - Updating port to 9001
+2020-04-27 15:09:15,114  INFO EurekaClientApplication:61 - Started EurekaClientApplication in 12.339 seconds (JVM running for 14.351)
+2020-04-27 15:10:49,609  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-27 15:10:53,543  INFO EurekaClientApplication:655 - The following profiles are active: dev
+2020-04-27 15:10:56,922  INFO GenericScope:295 - BeanFactory id=f10c409c-3efc-32b3-b99d-55622d8c02d5
+2020-04-27 15:10:58,466  INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-27 15:11:07,099  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9011 (http)
+2020-04-27 15:11:07,410  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 13835 ms
+2020-04-27 15:11:10,213  INFO PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-27 15:11:10,368  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:11:10,369  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:11:10,433  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:11:10,435  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:11:10,601  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 15:11:14,617  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-27 15:11:14,804  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-27 15:11:14,896  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-27 15:11:15,311  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-27 15:11:15,313  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-27 15:11:15,715  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-27 15:11:15,716  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-27 15:11:16,410  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:11:16,991  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-27 15:11:16,992  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-27 15:11:16,993  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-27 15:11:16,993  INFO DiscoveryClient:984 - Application is null : false
+2020-04-27 15:11:16,993  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-27 15:11:16,994  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-27 15:11:16,995  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-27 15:11:17,427  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-27 15:11:17,432  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 30
+2020-04-27 15:11:17,436  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-27 15:11:17,442  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587971477440 with initial instances count: 2
+2020-04-27 15:11:17,447  INFO EurekaServiceRegistry:41 - Registering application EUREKA-CLIENT-EXAMPLE1 with eureka with status UP
+2020-04-27 15:11:17,449  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587971477448, current=UP, previous=STARTING]
+2020-04-27 15:11:17,453  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011: registering service...
+2020-04-27 15:11:17,457  INFO DocumentationPluginsBootstrapper:160 - Context refreshed
+2020-04-27 15:11:17,585  INFO DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+2020-04-27 15:11:17,597  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - registration status: 204
+2020-04-27 15:11:17,686  INFO ApiListingReferenceScanner:41 - Scanning for api listing references
+2020-04-27 15:11:18,956  INFO TomcatWebServer:204 - Tomcat started on port(s): 9011 (http) with context path ''
+2020-04-27 15:11:18,958  INFO EurekaAutoServiceRegistration:145 - Updating port to 9011
+2020-04-27 15:11:19,916  INFO EurekaClientApplication:61 - Started EurekaClientApplication in 30.592 seconds (JVM running for 31.852)
+2020-04-27 15:14:13,737  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:14:46,896  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-27 15:14:50,564  INFO EurekaClientApplication:655 - The following profiles are active: dev
+2020-04-27 15:14:52,223  INFO GenericScope:295 - BeanFactory id=f75c0cb4-ec96-38e9-b95c-27f600528ceb
+2020-04-27 15:14:52,396  INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-27 15:14:52,829  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9011 (http)
+2020-04-27 15:14:53,055  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 2463 ms
+2020-04-27 15:14:54,036  INFO PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-27 15:14:54,083  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:14:54,083  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:14:54,108  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:14:54,109  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:14:54,256  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 15:14:56,488  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-27 15:14:56,637  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-27 15:14:56,670  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-27 15:14:56,837  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-27 15:14:56,838  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-27 15:14:56,974  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-27 15:14:56,975  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-27 15:14:57,195  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:14:57,675  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-27 15:14:57,676  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-27 15:14:57,676  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-27 15:14:57,677  INFO DiscoveryClient:984 - Application is null : false
+2020-04-27 15:14:57,677  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-27 15:14:57,677  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-27 15:14:57,678  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-27 15:14:57,934  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-27 15:14:57,938  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 30
+2020-04-27 15:14:57,941  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-27 15:14:57,947  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587971697945 with initial instances count: 3
+2020-04-27 15:14:57,952  INFO EurekaServiceRegistry:41 - Registering application EUREKA-CLIENT-EXAMPLE1 with eureka with status UP
+2020-04-27 15:14:57,953  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587971697952, current=UP, previous=STARTING]
+2020-04-27 15:14:57,956  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011: registering service...
+2020-04-27 15:14:57,956  INFO DocumentationPluginsBootstrapper:160 - Context refreshed
+2020-04-27 15:14:57,982  INFO DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+2020-04-27 15:14:58,017  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - registration status: 204
+2020-04-27 15:14:58,029  INFO ApiListingReferenceScanner:41 - Scanning for api listing references
+2020-04-27 15:14:58,335  INFO ConditionEvaluationReportLoggingListener:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-27 15:14:58,337  INFO EurekaServiceRegistry:65 - Unregistering application EUREKA-CLIENT-EXAMPLE1 with eureka with status DOWN
+2020-04-27 15:14:58,337  WARN DiscoveryClient:1328 - Saw local status change event StatusChangeEvent [timestamp=1587971698337, current=DOWN, previous=UP]
+2020-04-27 15:14:58,338  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011: registering service...
+2020-04-27 15:14:58,343  INFO ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-27 15:14:58,346  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - registration status: 204
+2020-04-27 15:14:58,358  INFO DiscoveryClient:909 - Shutting down DiscoveryClient ...
+2020-04-27 15:15:01,361  INFO DiscoveryClient:945 - Unregistering ...
+2020-04-27 15:15:01,367  INFO DiscoveryClient:947 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - deregister  status: 200
+2020-04-27 15:15:01,380  INFO DiscoveryClient:934 - Completed shut down of DiscoveryClient
+2020-04-27 15:15:01,386 ERROR LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9011 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9011 or configure this application to listen on another port.
+
+2020-04-27 15:15:17,497  INFO DiscoveryClient:871 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - Re-registering apps/EUREKA-CLIENT-EXAMPLE1
+2020-04-27 15:15:17,498  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011: registering service...
+2020-04-27 15:15:17,508  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - registration status: 204
+2020-04-27 15:15:30,942  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-27 15:15:34,260  INFO EurekaClientApplication:655 - The following profiles are active: dev
+2020-04-27 15:15:35,402  INFO GenericScope:295 - BeanFactory id=f75c0cb4-ec96-38e9-b95c-27f600528ceb
+2020-04-27 15:15:35,557  INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-27 15:15:35,864  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9001 (http)
+2020-04-27 15:15:36,046  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 1764 ms
+2020-04-27 15:15:37,070  INFO PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-27 15:15:37,113  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:15:37,113  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:15:37,119  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:15:37,119  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:15:37,249  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 15:15:39,310  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-27 15:15:39,423  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-27 15:15:39,456  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-27 15:15:39,651  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-27 15:15:39,652  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-27 15:15:39,801  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-27 15:15:39,802  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-27 15:15:40,064  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:15:40,505  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-27 15:15:40,506  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-27 15:15:40,506  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-27 15:15:40,506  INFO DiscoveryClient:984 - Application is null : false
+2020-04-27 15:15:40,507  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-27 15:15:40,507  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-27 15:15:40,508  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-27 15:15:40,697  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-27 15:15:40,703  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 30
+2020-04-27 15:15:40,707  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-27 15:15:40,713  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587971740711 with initial instances count: 3
+2020-04-27 15:15:40,716  INFO EurekaServiceRegistry:41 - Registering application EUREKA-CLIENT-EXAMPLE1 with eureka with status UP
+2020-04-27 15:15:40,716  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587971740716, current=UP, previous=STARTING]
+2020-04-27 15:15:40,720  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9001: registering service...
+2020-04-27 15:15:40,720  INFO DocumentationPluginsBootstrapper:160 - Context refreshed
+2020-04-27 15:15:40,746  INFO DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+2020-04-27 15:15:40,785  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9001 - registration status: 204
+2020-04-27 15:15:40,807  INFO ApiListingReferenceScanner:41 - Scanning for api listing references
+2020-04-27 15:15:41,089  INFO TomcatWebServer:204 - Tomcat started on port(s): 9001 (http) with context path ''
+2020-04-27 15:15:41,090  INFO EurekaAutoServiceRegistration:145 - Updating port to 9001
+2020-04-27 15:15:42,052  INFO EurekaClientApplication:61 - Started EurekaClientApplication in 11.352 seconds (JVM running for 13.716)
+2020-04-27 15:16:10,372  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-27 15:16:13,772  INFO EurekaClientApplication:655 - The following profiles are active: dev
+2020-04-27 15:16:14,975  INFO GenericScope:295 - BeanFactory id=f75c0cb4-ec96-38e9-b95c-27f600528ceb
+2020-04-27 15:16:15,109  INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-27 15:16:15,381  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9011 (http)
+2020-04-27 15:16:15,566  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 1774 ms
+2020-04-27 15:16:16,359  INFO PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-27 15:16:16,394  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:16:16,395  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:16:16,399  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:16:16,400  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:16:16,517  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 15:16:17,001  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:16:18,387  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-27 15:16:18,507  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-27 15:16:18,540  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-27 15:16:18,703  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-27 15:16:18,704  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-27 15:16:18,832  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-27 15:16:18,832  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-27 15:16:19,049  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:16:19,466  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-27 15:16:19,467  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-27 15:16:19,467  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-27 15:16:19,467  INFO DiscoveryClient:984 - Application is null : false
+2020-04-27 15:16:19,468  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-27 15:16:19,469  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-27 15:16:19,469  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-27 15:16:19,658  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-27 15:16:19,661  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 30
+2020-04-27 15:16:19,664  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-27 15:16:19,669  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587971779667 with initial instances count: 3
+2020-04-27 15:16:19,674  INFO EurekaServiceRegistry:41 - Registering application EUREKA-CLIENT-EXAMPLE1 with eureka with status UP
+2020-04-27 15:16:19,675  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587971779675, current=UP, previous=STARTING]
+2020-04-27 15:16:19,678  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011: registering service...
+2020-04-27 15:16:19,678  INFO DocumentationPluginsBootstrapper:160 - Context refreshed
+2020-04-27 15:16:19,727  INFO DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+2020-04-27 15:16:19,761  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - registration status: 204
+2020-04-27 15:16:19,773  INFO ApiListingReferenceScanner:41 - Scanning for api listing references
+2020-04-27 15:16:19,973  INFO ConditionEvaluationReportLoggingListener:136 - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-27 15:16:19,975  INFO EurekaServiceRegistry:65 - Unregistering application EUREKA-CLIENT-EXAMPLE1 with eureka with status DOWN
+2020-04-27 15:16:19,975  WARN DiscoveryClient:1328 - Saw local status change event StatusChangeEvent [timestamp=1587971779975, current=DOWN, previous=UP]
+2020-04-27 15:16:19,975  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011: registering service...
+2020-04-27 15:16:19,979  INFO ThreadPoolTaskExecutor:208 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-27 15:16:19,982  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - registration status: 204
+2020-04-27 15:16:19,984  INFO DiscoveryClient:909 - Shutting down DiscoveryClient ...
+2020-04-27 15:16:22,988  INFO DiscoveryClient:945 - Unregistering ...
+2020-04-27 15:16:22,998  INFO DiscoveryClient:947 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - deregister  status: 200
+2020-04-27 15:16:23,010  INFO DiscoveryClient:934 - Completed shut down of DiscoveryClient
+2020-04-27 15:16:23,018 ERROR LoggingFailureAnalysisReporter:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9011 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9011 or configure this application to listen on another port.
+
+2020-04-27 15:16:47,527  INFO DiscoveryClient:871 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - Re-registering apps/EUREKA-CLIENT-EXAMPLE1
+2020-04-27 15:16:47,527  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011: registering service...
+2020-04-27 15:16:47,534  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - registration status: 204
+2020-04-27 15:17:56,836  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-27 15:18:00,112  INFO EurekaClientApplication:655 - The following profiles are active: dev
+2020-04-27 15:18:01,261  INFO GenericScope:295 - BeanFactory id=f75c0cb4-ec96-38e9-b95c-27f600528ceb
+2020-04-27 15:18:01,448  INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-27 15:18:01,823  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9011 (http)
+2020-04-27 15:18:02,073  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 1940 ms
+2020-04-27 15:18:03,230  INFO PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-27 15:18:03,291  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:18:03,292  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:18:03,301  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:18:03,302  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:18:03,490  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 15:18:05,970  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-27 15:18:06,132  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-27 15:18:06,184  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-27 15:18:06,417  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-27 15:18:06,419  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-27 15:18:06,620  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-27 15:18:06,622  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-27 15:18:06,986  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:18:07,489  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-27 15:18:07,490  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-27 15:18:07,490  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-27 15:18:07,490  INFO DiscoveryClient:984 - Application is null : false
+2020-04-27 15:18:07,491  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-27 15:18:07,491  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-27 15:18:07,492  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-27 15:18:07,737  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-27 15:18:07,743  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 30
+2020-04-27 15:18:07,747  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-27 15:18:07,754  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587971887753 with initial instances count: 3
+2020-04-27 15:18:07,757  INFO EurekaServiceRegistry:41 - Registering application EUREKA-CLIENT-EXAMPLE1 with eureka with status UP
+2020-04-27 15:18:07,758  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587971887758, current=UP, previous=STARTING]
+2020-04-27 15:18:07,762  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011: registering service...
+2020-04-27 15:18:07,763  INFO DocumentationPluginsBootstrapper:160 - Context refreshed
+2020-04-27 15:18:07,788  INFO DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+2020-04-27 15:18:07,819  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - registration status: 204
+2020-04-27 15:18:07,841  INFO ApiListingReferenceScanner:41 - Scanning for api listing references
+2020-04-27 15:18:08,177  INFO TomcatWebServer:204 - Tomcat started on port(s): 9011 (http) with context path ''
+2020-04-27 15:18:08,178  INFO EurekaAutoServiceRegistration:145 - Updating port to 9011
+2020-04-27 15:18:09,173  INFO EurekaClientApplication:61 - Started EurekaClientApplication in 12.576 seconds (JVM running for 14.46)
+2020-04-27 15:18:49,234  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2020-04-27 15:18:49,243  INFO DispatcherServlet:547 - Completed initialization in 9 ms
+2020-04-27 15:18:49,277  INFO UserController:35 - 查询用户--info:abc
+2020-04-27 15:18:49,391  INFO HikariDataSource:110 - HikariPool-1 - Starting...
+2020-04-27 15:18:49,393  WARN DriverDataSource:70 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2020-04-27 15:18:51,514  INFO PoolBase:527 - HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I)
+2020-04-27 15:18:51,520  INFO HikariDataSource:123 - HikariPool-1 - Start completed.
+2020-04-27 15:20:35,648  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2020-04-27 15:20:35,662  INFO DispatcherServlet:547 - Completed initialization in 14 ms
+2020-04-27 15:20:35,709  INFO UserController:35 - 查询用户--info:abc
+2020-04-27 15:20:35,739  INFO HikariDataSource:110 - HikariPool-1 - Starting...
+2020-04-27 15:20:35,742  WARN DriverDataSource:70 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2020-04-27 15:20:36,669  INFO PoolBase:527 - HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I)
+2020-04-27 15:20:36,675  INFO HikariDataSource:123 - HikariPool-1 - Start completed.
+2020-04-27 15:20:40,513  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:20:40,852  INFO UserController:35 - 查询用户--info:abc
+2020-04-27 15:23:07,495  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:25:40,515  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:28:07,497  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:30:40,516  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:33:07,499  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:35:40,517  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:38:07,500  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:40:40,518  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:45:40,519  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:48:18,497  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-27 15:48:22,384  INFO EurekaClientApplication:655 - The following profiles are active: dev
+2020-04-27 15:48:24,196  INFO GenericScope:295 - BeanFactory id=f75c0cb4-ec96-38e9-b95c-27f600528ceb
+2020-04-27 15:48:24,746  INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-27 15:48:26,669  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9001 (http)
+2020-04-27 15:48:27,522  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 5114 ms
+2020-04-27 15:48:33,247  INFO PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-27 15:48:33,295  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:48:33,295  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:48:33,300  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:48:33,301  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:48:33,446  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 15:48:36,168  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-27 15:48:36,295  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-27 15:48:36,534  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-27 15:48:36,900  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-27 15:48:36,901  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-27 15:48:37,866  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-27 15:48:37,866  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-27 15:48:38,367  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:48:39,384  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-27 15:48:39,385  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-27 15:48:39,385  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-27 15:48:39,385  INFO DiscoveryClient:984 - Application is null : false
+2020-04-27 15:48:39,385  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-27 15:48:39,386  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-27 15:48:39,386  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-27 15:48:40,081  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-27 15:48:40,085  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 30
+2020-04-27 15:48:40,087  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-27 15:48:40,091  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587973720090 with initial instances count: 2
+2020-04-27 15:48:40,094  INFO EurekaServiceRegistry:41 - Registering application EUREKA-CLIENT-EXAMPLE1 with eureka with status UP
+2020-04-27 15:48:40,094  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587973720094, current=UP, previous=STARTING]
+2020-04-27 15:48:40,097  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9001: registering service...
+2020-04-27 15:48:40,098  INFO DocumentationPluginsBootstrapper:160 - Context refreshed
+2020-04-27 15:48:41,560  INFO DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+2020-04-27 15:48:43,379  INFO ApiListingReferenceScanner:41 - Scanning for api listing references
+2020-04-27 15:48:43,395  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9001 - registration status: 204
+2020-04-27 15:48:46,374  INFO TomcatWebServer:204 - Tomcat started on port(s): 9001 (http) with context path ''
+2020-04-27 15:48:46,376  INFO EurekaAutoServiceRegistration:145 - Updating port to 9001
+2020-04-27 15:48:47,195  INFO EurekaClientApplication:61 - Started EurekaClientApplication in 28.931 seconds (JVM running for 30.894)
+2020-04-27 15:50:21,306  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-27 15:50:25,312  INFO EurekaClientApplication:655 - The following profiles are active: dev
+2020-04-27 15:50:26,532  INFO GenericScope:295 - BeanFactory id=f75c0cb4-ec96-38e9-b95c-27f600528ceb
+2020-04-27 15:50:26,683  INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-27 15:50:29,783  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9011 (http)
+2020-04-27 15:50:32,160  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 6814 ms
+2020-04-27 15:50:33,133  INFO PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-27 15:50:33,176  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:50:33,176  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:50:33,181  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 15:50:33,181  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 15:50:33,310  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 15:50:35,384  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-27 15:50:35,520  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-27 15:50:35,554  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-27 15:50:35,733  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-27 15:50:35,734  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-27 15:50:35,929  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-27 15:50:35,930  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-27 15:50:36,164  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:50:36,589  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-27 15:50:36,589  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-27 15:50:36,589  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-27 15:50:36,590  INFO DiscoveryClient:984 - Application is null : false
+2020-04-27 15:50:36,590  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-27 15:50:36,590  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-27 15:50:36,590  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-27 15:50:36,790  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-27 15:50:36,794  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 30
+2020-04-27 15:50:36,797  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-27 15:50:36,802  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587973836801 with initial instances count: 2
+2020-04-27 15:50:36,805  INFO EurekaServiceRegistry:41 - Registering application EUREKA-CLIENT-EXAMPLE1 with eureka with status UP
+2020-04-27 15:50:36,806  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587973836806, current=UP, previous=STARTING]
+2020-04-27 15:50:36,809  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011: registering service...
+2020-04-27 15:50:36,809  INFO DocumentationPluginsBootstrapper:160 - Context refreshed
+2020-04-27 15:50:36,831  INFO DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+2020-04-27 15:50:36,872  INFO ApiListingReferenceScanner:41 - Scanning for api listing references
+2020-04-27 15:50:36,906  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - registration status: 204
+2020-04-27 15:50:37,096  INFO TomcatWebServer:204 - Tomcat started on port(s): 9011 (http) with context path ''
+2020-04-27 15:50:37,098  INFO EurekaAutoServiceRegistration:145 - Updating port to 9011
+2020-04-27 15:50:37,929  INFO EurekaClientApplication:61 - Started EurekaClientApplication in 16.89 seconds (JVM running for 18.756)
+2020-04-27 15:50:47,181  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2020-04-27 15:50:47,190  INFO DispatcherServlet:547 - Completed initialization in 9 ms
+2020-04-27 15:50:47,232  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 15:50:47,233  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 15:50:47,235  INFO UserController:41 - port:9001
+2020-04-27 15:50:47,343  INFO HikariDataSource:110 - HikariPool-1 - Starting...
+2020-04-27 15:50:47,346  WARN DriverDataSource:70 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2020-04-27 15:50:48,901  INFO PoolBase:527 - HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I)
+2020-04-27 15:50:48,923  INFO HikariDataSource:123 - HikariPool-1 - Start completed.
+2020-04-27 15:51:04,735  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 15:51:04,736  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 15:51:04,737  INFO UserController:41 - port:9001
+2020-04-27 15:51:20,534  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 15:51:20,535  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 15:51:20,535  INFO UserController:41 - port:9001
+2020-04-27 15:51:48,109  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 15:51:48,110  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 15:51:48,110  INFO UserController:41 - port:9001
+2020-04-27 15:53:12,479  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2020-04-27 15:53:12,493  INFO DispatcherServlet:547 - Completed initialization in 14 ms
+2020-04-27 15:53:12,536  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 15:53:12,536  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 15:53:12,537  INFO UserController:41 - port:9011
+2020-04-27 15:53:12,558  INFO HikariDataSource:110 - HikariPool-1 - Starting...
+2020-04-27 15:53:12,560  WARN DriverDataSource:70 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2020-04-27 15:53:13,340  INFO PoolBase:527 - HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I)
+2020-04-27 15:53:13,345  INFO HikariDataSource:123 - HikariPool-1 - Start completed.
+2020-04-27 15:53:30,117  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 15:53:30,117  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 15:53:30,118  INFO UserController:41 - port:9001
+2020-04-27 15:53:39,390  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:53:46,769  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 15:53:46,770  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 15:53:46,770  INFO UserController:41 - port:9001
+2020-04-27 15:53:49,952  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 15:53:49,953  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 15:53:49,953  INFO UserController:41 - port:9011
+2020-04-27 15:53:56,434  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 15:53:56,434  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 15:53:56,435  INFO UserController:41 - port:9001
+2020-04-27 15:54:01,509  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 15:54:01,509  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 15:54:01,510  INFO UserController:41 - port:9011
+2020-04-27 15:54:07,514  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 15:54:07,515  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 15:54:07,515  INFO UserController:41 - port:9001
+2020-04-27 15:54:11,061  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 15:54:11,061  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 15:54:11,061  INFO UserController:41 - port:9011
+2020-04-27 15:55:36,595  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 15:58:39,392  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:00:36,596  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:03:39,394  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:05:36,597  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:08:39,395  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:10:36,599  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:12:45,164  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-27 16:12:48,414  INFO EurekaClientApplication:655 - The following profiles are active: dev
+2020-04-27 16:12:50,086  INFO GenericScope:295 - BeanFactory id=f75c0cb4-ec96-38e9-b95c-27f600528ceb
+2020-04-27 16:12:50,299  INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-27 16:12:50,830  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9001 (http)
+2020-04-27 16:12:51,291  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 2856 ms
+2020-04-27 16:12:52,869  INFO PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-27 16:12:52,909  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 16:12:52,910  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 16:12:52,914  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 16:12:52,915  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 16:12:53,088  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 16:12:55,069  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-27 16:12:55,213  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-27 16:12:55,269  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-27 16:12:55,671  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-27 16:12:55,672  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-27 16:12:55,939  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-27 16:12:55,940  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-27 16:12:56,235  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:12:56,683  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-27 16:12:56,684  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-27 16:12:56,684  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-27 16:12:56,699  INFO DiscoveryClient:984 - Application is null : false
+2020-04-27 16:12:56,699  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-27 16:12:56,700  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-27 16:12:56,700  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-27 16:12:57,041  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-27 16:12:57,045  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 30
+2020-04-27 16:12:57,047  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-27 16:12:57,074  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587975177050 with initial instances count: 3
+2020-04-27 16:12:57,076  INFO EurekaServiceRegistry:41 - Registering application EUREKA-CLIENT-EXAMPLE1 with eureka with status UP
+2020-04-27 16:12:57,077  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587975177077, current=UP, previous=STARTING]
+2020-04-27 16:12:57,079  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9001: registering service...
+2020-04-27 16:12:57,080  INFO DocumentationPluginsBootstrapper:160 - Context refreshed
+2020-04-27 16:12:57,139  INFO DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+2020-04-27 16:12:57,182  INFO ApiListingReferenceScanner:41 - Scanning for api listing references
+2020-04-27 16:12:57,213  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9001 - registration status: 204
+2020-04-27 16:12:57,466  INFO TomcatWebServer:204 - Tomcat started on port(s): 9001 (http) with context path ''
+2020-04-27 16:12:57,467  INFO EurekaAutoServiceRegistration:145 - Updating port to 9001
+2020-04-27 16:12:58,234  INFO EurekaClientApplication:61 - Started EurekaClientApplication in 13.647 seconds (JVM running for 15.638)
+2020-04-27 16:13:16,020  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-27 16:13:19,212  INFO EurekaClientApplication:655 - The following profiles are active: dev
+2020-04-27 16:13:20,378  INFO GenericScope:295 - BeanFactory id=f75c0cb4-ec96-38e9-b95c-27f600528ceb
+2020-04-27 16:13:20,510  INFO PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-27 16:13:20,813  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9011 (http)
+2020-04-27 16:13:20,971  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 1739 ms
+2020-04-27 16:13:21,773  INFO PropertySourcedRequestMappingHandlerMapping:69 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-27 16:13:21,814  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 16:13:21,815  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 16:13:21,820  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-27 16:13:21,821  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-27 16:13:21,939  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-27 16:13:23,963  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-27 16:13:24,163  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-27 16:13:24,210  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-27 16:13:24,499  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-27 16:13:24,501  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-27 16:13:24,660  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-27 16:13:24,660  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-27 16:13:24,892  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:13:25,304  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-27 16:13:25,305  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-27 16:13:25,305  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-27 16:13:25,305  INFO DiscoveryClient:984 - Application is null : false
+2020-04-27 16:13:25,305  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-27 16:13:25,306  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-27 16:13:25,306  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-27 16:13:25,513  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-27 16:13:25,516  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 30
+2020-04-27 16:13:25,519  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-27 16:13:25,523  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587975205521 with initial instances count: 3
+2020-04-27 16:13:25,525  INFO EurekaServiceRegistry:41 - Registering application EUREKA-CLIENT-EXAMPLE1 with eureka with status UP
+2020-04-27 16:13:25,525  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587975205525, current=UP, previous=STARTING]
+2020-04-27 16:13:25,529  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011: registering service...
+2020-04-27 16:13:25,530  INFO DocumentationPluginsBootstrapper:160 - Context refreshed
+2020-04-27 16:13:25,550  INFO DocumentationPluginsBootstrapper:163 - Found 1 custom documentation plugin(s)
+2020-04-27 16:13:25,586  INFO ApiListingReferenceScanner:41 - Scanning for api listing references
+2020-04-27 16:13:25,598  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA-CLIENT-EXAMPLE1/192.168.2.156:9011 - registration status: 204
+2020-04-27 16:13:25,790  INFO TomcatWebServer:204 - Tomcat started on port(s): 9011 (http) with context path ''
+2020-04-27 16:13:25,791  INFO EurekaAutoServiceRegistration:145 - Updating port to 9011
+2020-04-27 16:13:26,562  INFO EurekaClientApplication:61 - Started EurekaClientApplication in 10.854 seconds (JVM running for 13.008)
+2020-04-27 16:16:07,665  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2020-04-27 16:16:07,675  INFO DispatcherServlet:547 - Completed initialization in 10 ms
+2020-04-27 16:16:07,736  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 16:16:07,737  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 16:16:07,737  INFO UserController:41 - port:9001
+2020-04-27 16:16:07,911  INFO HikariDataSource:110 - HikariPool-1 - Starting...
+2020-04-27 16:16:07,914  WARN DriverDataSource:70 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2020-04-27 16:16:10,054  INFO PoolBase:527 - HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I)
+2020-04-27 16:16:10,084  INFO HikariDataSource:123 - HikariPool-1 - Start completed.
+2020-04-27 16:16:20,464  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2020-04-27 16:16:20,476  INFO DispatcherServlet:547 - Completed initialization in 11 ms
+2020-04-27 16:16:20,512  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 16:16:20,512  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 16:16:20,513  INFO UserController:41 - port:9011
+2020-04-27 16:16:20,537  INFO HikariDataSource:110 - HikariPool-1 - Starting...
+2020-04-27 16:16:20,541  WARN DriverDataSource:70 - Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2020-04-27 16:16:21,411  INFO PoolBase:527 - HikariPool-1 - Driver does not support get/set network timeout for connections. (oracle.jdbc.driver.T4CConnection.getNetworkTimeout()I)
+2020-04-27 16:16:21,415  INFO HikariDataSource:123 - HikariPool-1 - Start completed.
+2020-04-27 16:16:33,180  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 16:16:33,181  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 16:16:33,181  INFO UserController:41 - port:9001
+2020-04-27 16:16:43,778  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 16:16:43,779  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 16:16:43,779  INFO UserController:41 - port:9011
+2020-04-27 16:16:50,586  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 16:16:50,586  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 16:16:50,586  INFO UserController:41 - port:9001
+2020-04-27 16:17:07,561  INFO UserController:39 - 查询用户--info:abc
+2020-04-27 16:17:07,562  INFO UserController:40 - ip:192.168.2.156
+2020-04-27 16:17:07,562  INFO UserController:41 - port:9001
+2020-04-27 16:17:56,704  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:22:56,705  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:27:56,707  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:32:56,709  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:37:56,710  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-27 16:42:56,713  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration

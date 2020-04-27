@@ -1,0 +1,293 @@
+2020-04-26 21:01:07,350  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-26 21:01:10,475  INFO EurekaClientApplication:651 - No active profile set, falling back to default profiles: default
+2020-04-26 21:01:11,256  INFO GenericScope:295 - BeanFactory id=73c4df52-5101-37f1-8d29-f12b87371e0d
+2020-04-26 21:01:11,663  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9002 (http)
+2020-04-26 21:01:11,835  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 1344 ms
+2020-04-26 21:01:12,812  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-26 21:01:12,812  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 21:01:12,817  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-26 21:01:12,817  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 21:01:12,959  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 21:01:14,014  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-26 21:01:14,136  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-26 21:01:14,171  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-26 21:01:15,085  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-26 21:01:15,085  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-26 21:01:15,236  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-26 21:01:15,237  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-26 21:01:15,483  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 21:01:15,934  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-26 21:01:15,935  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-26 21:01:15,935  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-26 21:01:15,935  INFO DiscoveryClient:984 - Application is null : false
+2020-04-26 21:01:15,936  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-26 21:01:15,936  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-26 21:01:15,936  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-26 21:01:16,256  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-26 21:01:16,258  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 5
+2020-04-26 21:01:16,260  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-26 21:01:16,265  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587906076263 with initial instances count: 0
+2020-04-26 21:01:16,267  INFO EurekaServiceRegistry:41 - Registering application EUREKA_CLIENT_EXAMPLE2 with eureka with status UP
+2020-04-26 21:01:16,268  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587906076268, current=UP, previous=STARTING]
+2020-04-26 21:01:16,271  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA_CLIENT_EXAMPLE2/192.168.31.190:9002: registering service...
+2020-04-26 21:01:16,326  INFO TomcatWebServer:204 - Tomcat started on port(s): 9002 (http) with context path ''
+2020-04-26 21:01:16,328  INFO EurekaAutoServiceRegistration:145 - Updating port to 9002
+2020-04-26 21:01:16,408  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA_CLIENT_EXAMPLE2/192.168.31.190:9002 - registration status: 204
+2020-04-26 21:01:17,165  INFO EurekaClientApplication:61 - Started EurekaClientApplication in 10.068 seconds (JVM running for 12.271)
+2020-04-26 21:01:46,260  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-26 21:01:46,260  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-26 21:01:46,260  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-26 21:01:46,260  INFO DiscoveryClient:984 - Application is null : false
+2020-04-26 21:01:46,260  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-26 21:01:46,260  INFO DiscoveryClient:987 - Application version is -1: false
+2020-04-26 21:01:46,261  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-26 21:01:46,295  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-26 21:06:15,938  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 21:11:15,942  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 21:16:15,943  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 21:21:15,944  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 21:24:02,157 ERROR RedirectingEurekaHttpClient:91 - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:9000/eureka/}
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.put(WebResource.java:529)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.sendHeartBeat(AbstractJerseyEurekaHttpClient.java:103)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:867)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1436)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:605)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:440)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 26 more
+2020-04-26 21:24:02,163  WARN RetryableEurekaHttpClient:130 - Request execution failed with message: java.net.ConnectException: Connection refused: connect
+2020-04-26 21:24:03,153  WARN TimedSupervisorTask:73 - task supervisor timed out
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.FutureTask.get(FutureTask.java:205)
+	at com.netflix.discovery.TimedSupervisorTask.run(TimedSupervisorTask.java:68)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2020-04-26 21:24:06,370 ERROR RedirectingEurekaHttpClient:83 - Request execution error. endpoint=DefaultEndpoint{ serviceUrl='http://localhost:9000/eureka/}
+com.sun.jersey.api.client.ClientHandlerException: java.net.ConnectException: Connection refused: connect
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:187)
+	at com.sun.jersey.api.client.filter.GZIPContentEncodingFilter.handle(GZIPContentEncodingFilter.java:123)
+	at com.netflix.discovery.EurekaIdentityHeaderFilter.handle(EurekaIdentityHeaderFilter.java:27)
+	at com.sun.jersey.api.client.Client.handle(Client.java:652)
+	at com.sun.jersey.api.client.WebResource.handle(WebResource.java:682)
+	at com.sun.jersey.api.client.WebResource.access$200(WebResource.java:74)
+	at com.sun.jersey.api.client.WebResource$Builder.put(WebResource.java:529)
+	at com.netflix.discovery.shared.transport.jersey.AbstractJerseyEurekaHttpClient.sendHeartBeat(AbstractJerseyEurekaHttpClient.java:103)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.MetricsCollectingEurekaHttpClient.execute(MetricsCollectingEurekaHttpClient.java:73)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.executeOnNewServer(RedirectingEurekaHttpClient.java:118)
+	at com.netflix.discovery.shared.transport.decorator.RedirectingEurekaHttpClient.execute(RedirectingEurekaHttpClient.java:79)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:120)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:867)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1436)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.scheme.PlainSocketFactory.connectSocket(PlainSocketFactory.java:121)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:180)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:134)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:605)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:440)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:835)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:118)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at com.sun.jersey.client.apache4.ApacheHttpClient4Handler.handle(ApacheHttpClient4Handler.java:173)
+	... 27 more
+2020-04-26 21:24:06,371  WARN RetryableEurekaHttpClient:130 - Request execution failed with message: java.net.ConnectException: Connection refused: connect
+2020-04-26 21:24:06,372 ERROR DiscoveryClient:881 - DiscoveryClient_EUREKA_CLIENT_EXAMPLE2/192.168.31.190:9002 - was unable to send heartbeat!
+com.netflix.discovery.shared.transport.TransportException: Cannot execute request on any known server
+	at com.netflix.discovery.shared.transport.decorator.RetryableEurekaHttpClient.execute(RetryableEurekaHttpClient.java:112)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator$3.execute(EurekaHttpClientDecorator.java:92)
+	at com.netflix.discovery.shared.transport.decorator.SessionedEurekaHttpClient.execute(SessionedEurekaHttpClient.java:77)
+	at com.netflix.discovery.shared.transport.decorator.EurekaHttpClientDecorator.sendHeartBeat(EurekaHttpClientDecorator.java:89)
+	at com.netflix.discovery.DiscoveryClient.renew(DiscoveryClient.java:867)
+	at com.netflix.discovery.DiscoveryClient$HeartbeatThread.run(DiscoveryClient.java:1436)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2020-04-26 21:24:13,206  INFO DiscoveryClient:871 - DiscoveryClient_EUREKA_CLIENT_EXAMPLE2/192.168.31.190:9002 - Re-registering apps/EUREKA_CLIENT_EXAMPLE2
+2020-04-26 21:24:13,206  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA_CLIENT_EXAMPLE2/192.168.31.190:9002: registering service...
+2020-04-26 21:24:13,219  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA_CLIENT_EXAMPLE2/192.168.31.190:9002 - registration status: 204
+2020-04-26 21:24:46,562  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-26 21:24:46,562  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-26 21:24:46,562  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-26 21:24:46,563  INFO DiscoveryClient:984 - Application is null : false
+2020-04-26 21:24:46,563  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-26 21:24:46,563  INFO DiscoveryClient:987 - Application version is -1: false
+2020-04-26 21:24:46,564  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-26 21:24:46,572  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-26 21:25:25,512  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2020-04-26 21:25:25,529  INFO DispatcherServlet:547 - Completed initialization in 17 ms
+2020-04-26 21:26:15,946  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 21:31:15,948  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 21:35:08,984  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-26 21:35:12,136  INFO EurekaClientApplication:651 - No active profile set, falling back to default profiles: default
+2020-04-26 21:35:12,957  INFO GenericScope:295 - BeanFactory id=73c4df52-5101-37f1-8d29-f12b87371e0d
+2020-04-26 21:35:13,307  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9002 (http)
+2020-04-26 21:35:13,481  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 1329 ms
+2020-04-26 21:35:14,417  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-26 21:35:14,417  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 21:35:14,422  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-26 21:35:14,422  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 21:35:14,569  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 21:35:15,583  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-26 21:35:15,697  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-26 21:35:15,733  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-26 21:35:16,048  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-26 21:35:16,048  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-26 21:35:16,192  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-26 21:35:16,194  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-26 21:35:16,383  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 21:35:16,798  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-26 21:35:16,799  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-26 21:35:16,799  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-26 21:35:16,799  INFO DiscoveryClient:984 - Application is null : false
+2020-04-26 21:35:16,800  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-26 21:35:16,800  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-26 21:35:16,800  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-26 21:35:16,972  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-26 21:35:16,976  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 5
+2020-04-26 21:35:16,979  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-26 21:35:16,984  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587908116982 with initial instances count: 2
+2020-04-26 21:35:16,985  INFO EurekaServiceRegistry:41 - Registering application EUREKA_CLIENT_EXAMPLE2 with eureka with status UP
+2020-04-26 21:35:16,986  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587908116985, current=UP, previous=STARTING]
+2020-04-26 21:35:16,988  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA_CLIENT_EXAMPLE2/192.168.31.190:9002: registering service...
+2020-04-26 21:35:17,052  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA_CLIENT_EXAMPLE2/192.168.31.190:9002 - registration status: 204
+2020-04-26 21:35:17,056  INFO TomcatWebServer:204 - Tomcat started on port(s): 9002 (http) with context path ''
+2020-04-26 21:35:17,057  INFO EurekaAutoServiceRegistration:145 - Updating port to 9002
+2020-04-26 21:35:17,864  INFO EurekaClientApplication:61 - Started EurekaClientApplication in 9.146 seconds (JVM running for 10.941)
+2020-04-26 21:35:21,588  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2020-04-26 21:35:21,602  INFO DispatcherServlet:547 - Completed initialization in 13 ms
+2020-04-26 21:35:21,635  INFO CallOtherClientController:43 - abc
+2020-04-26 21:37:47,007  INFO Version:21 - HV000001: Hibernate Validator 6.0.18.Final
+2020-04-26 21:37:51,403  INFO EurekaClientApplication:651 - No active profile set, falling back to default profiles: default
+2020-04-26 21:37:52,302  INFO GenericScope:295 - BeanFactory id=73c4df52-5101-37f1-8d29-f12b87371e0d
+2020-04-26 21:37:52,746  INFO TomcatWebServer:92 - Tomcat initialized with port(s): 9002 (http)
+2020-04-26 21:37:52,927  INFO ContextLoader:284 - Root WebApplicationContext: initialization completed in 1503 ms
+2020-04-26 21:37:54,008  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-26 21:37:54,008  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 21:37:54,012  WARN URLConfigurationSource:121 - No URLs will be polled as dynamic configuration sources.
+2020-04-26 21:37:54,013  INFO URLConfigurationSource:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2020-04-26 21:37:54,193  INFO ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-26 21:37:55,355  WARN BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger:86 - You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2020-04-26 21:37:55,476  INFO InstanceInfoFactory:72 - Setting initial instance status as: STARTING
+2020-04-26 21:37:55,520  INFO DiscoveryClient:368 - Initializing Eureka in region us-east-1
+2020-04-26 21:37:55,844  INFO DiscoveryJerseyProvider:70 - Using JSON encoding codec LegacyJacksonJson
+2020-04-26 21:37:55,844  INFO DiscoveryJerseyProvider:71 - Using JSON decoding codec LegacyJacksonJson
+2020-04-26 21:37:55,978  INFO DiscoveryJerseyProvider:80 - Using XML encoding codec XStreamXml
+2020-04-26 21:37:55,979  INFO DiscoveryJerseyProvider:81 - Using XML decoding codec XStreamXml
+2020-04-26 21:37:56,195  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 21:37:56,653  INFO DiscoveryClient:981 - Disable delta property : false
+2020-04-26 21:37:56,653  INFO DiscoveryClient:982 - Single vip registry refresh property : null
+2020-04-26 21:37:56,654  INFO DiscoveryClient:983 - Force full registry fetch : false
+2020-04-26 21:37:56,654  INFO DiscoveryClient:984 - Application is null : false
+2020-04-26 21:37:56,654  INFO DiscoveryClient:985 - Registered Applications size is zero : true
+2020-04-26 21:37:56,654  INFO DiscoveryClient:987 - Application version is -1: true
+2020-04-26 21:37:56,655  INFO DiscoveryClient:1070 - Getting all instance registry info from the eureka server
+2020-04-26 21:37:56,837  INFO DiscoveryClient:1079 - The response status is 200
+2020-04-26 21:37:56,841  INFO DiscoveryClient:1294 - Starting heartbeat executor: renew interval is: 5
+2020-04-26 21:37:56,843  INFO InstanceInfoReplicator:60 - InstanceInfoReplicator onDemand update allowed rate per min is 4
+2020-04-26 21:37:56,847  INFO DiscoveryClient:468 - Discovery Client initialized at timestamp 1587908276846 with initial instances count: 2
+2020-04-26 21:37:56,849  INFO EurekaServiceRegistry:41 - Registering application EUREKA_CLIENT_EXAMPLE2 with eureka with status UP
+2020-04-26 21:37:56,849  INFO DiscoveryClient:1330 - Saw local status change event StatusChangeEvent [timestamp=1587908276849, current=UP, previous=STARTING]
+2020-04-26 21:37:56,852  INFO DiscoveryClient:847 - DiscoveryClient_EUREKA_CLIENT_EXAMPLE2/192.168.31.190:9002: registering service...
+2020-04-26 21:37:56,930  INFO DiscoveryClient:856 - DiscoveryClient_EUREKA_CLIENT_EXAMPLE2/192.168.31.190:9002 - registration status: 204
+2020-04-26 21:37:56,936  INFO TomcatWebServer:204 - Tomcat started on port(s): 9002 (http) with context path ''
+2020-04-26 21:37:56,937  INFO EurekaAutoServiceRegistration:145 - Updating port to 9002
+2020-04-26 21:37:57,876  INFO EurekaClientApplication:61 - Started EurekaClientApplication in 11.277 seconds (JVM running for 13.089)
+2020-04-26 21:38:32,145  INFO DispatcherServlet:525 - Initializing Servlet 'dispatcherServlet'
+2020-04-26 21:38:32,154  INFO DispatcherServlet:547 - Completed initialization in 9 ms
+2020-04-26 21:38:32,193  INFO CallOtherClientController:43 - abc
+2020-04-26 21:38:32,821  INFO ChainedDynamicProperty:115 - Flipping property: eureka-client-example1.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2020-04-26 21:38:32,849  INFO ShutdownEnabledTimer:58 - Shutdown hook installed for: NFLoadBalancer-PingTimer-eureka-client-example1
+2020-04-26 21:38:32,853  INFO BaseLoadBalancer:197 - Client: eureka-client-example1 instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=eureka-client-example1,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+2020-04-26 21:38:32,859  INFO DynamicServerListLoadBalancer:222 - Using serverListUpdater PollingServerListUpdater
+2020-04-26 21:38:32,896  INFO ChainedDynamicProperty:115 - Flipping property: eureka-client-example1.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2020-04-26 21:38:32,898  INFO DynamicServerListLoadBalancer:150 - DynamicServerListLoadBalancer for client eureka-client-example1 initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=eureka-client-example1,current list of Servers=[192.168.31.190:9001],Load balancer stats=Zone stats: {defaultzone=[Zone:defaultzone;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:192.168.31.190:9001;	Zone:defaultZone;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Thu Jan 01 08:00:00 CST 1970;	First connection made: Thu Jan 01 08:00:00 CST 1970;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:org.springframework.cloud.netflix.ribbon.eureka.DomainExtractingServerList@25fef830
+2020-04-26 21:38:33,865  INFO ChainedDynamicProperty:115 - Flipping property: eureka-client-example1.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2020-04-26 21:38:59,482  INFO CallOtherClientController:43 - abc
+2020-04-26 21:39:05,637  INFO CallOtherClientController:43 - abc
+2020-04-26 21:42:56,658  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 21:47:56,660  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 21:52:56,661  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 21:57:56,664  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 22:02:56,666  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 22:07:56,668  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 22:12:56,670  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 22:17:56,672  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 22:22:56,673  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 22:27:56,675  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 22:32:56,677  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 22:37:56,679  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 22:42:56,680  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 22:47:56,682  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
+2020-04-26 22:52:56,683  INFO ConfigClusterResolver:43 - Resolving eureka endpoints via configuration
