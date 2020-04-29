@@ -13,4 +13,4 @@ eureka:
         defaultzon: http://${eureka.instance.hostname}:${server.port}/eureka/
   server:
     enable-self-preservation: false #关闭自我保护机制
-    eviction-interval-timer-in-ms: 60000 #剔除服务时间间隔
+    eviction-interval-timer-in-ms: 4000 #剔除服务时间间隔

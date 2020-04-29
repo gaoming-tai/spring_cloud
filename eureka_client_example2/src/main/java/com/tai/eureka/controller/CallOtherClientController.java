@@ -1,6 +1,4 @@
-package com.tai.eureka.controller;/**
- * Created by gaoming on 2020/4/22.
- */
+package com.tai.eureka.controller;
 
 import com.tai.eureka.domain.User;
 import org.apache.log4j.Logger;
