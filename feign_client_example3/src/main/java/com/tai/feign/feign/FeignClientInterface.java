@@ -9,9 +9,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 /**
 * @Author gaoming
 * @Description 声明要调用的微服务名称
- *  @FeignClient(name="微服务名称")
+ *  @FeignClient(name="微服务名称",fallback="接口实现类.class")
+ *  fallback:配置熔断降级逻辑接口实现类
 **/
-@FeignClient(name="eureka-client-example1")
+@FeignClient(name="eureka-client-example1",fallback = FeignClientInterfaceCallBack.class)
 public interface FeignClientInterface {
 
     /**

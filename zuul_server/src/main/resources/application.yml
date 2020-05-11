@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: zuul-server #指定应用名称 名称不可用下划线分割
+#指定服务端口
+server:
+  port: 8081
+#基础路由配置:
+zuul:
+  routes:

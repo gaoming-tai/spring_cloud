@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eureka_server" />
-        <module name="eureka_client_example1" />
-        <module name="feign_client_example3" />
         <module name="eureka_client_example2" />
+        <module name="eureka_client_example1" />
+        <module name="eureka_server" />
+        <module name="zuul_server" />
+        <module name="hystrix_turbine" />
+        <module name="hystrix_client_example4" />
+        <module name="feign_client_example3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,7 +20,10 @@
       <module name="eureka_client_example2" target="1.8" />
       <module name="eureka_server" target="1.8" />
       <module name="feign_client_example3" target="1.8" />
+      <module name="hystrix_client_example4" target="1.8" />
+      <module name="hystrix_turbine" target="1.8" />
       <module name="spring_cloud" target="1.8" />
+      <module name="zuul_server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -26,6 +32,9 @@
       <module name="eureka_client_example2" options="-parameters" />
       <module name="eureka_server" options="-parameters" />
       <module name="feign_client_example3" options="-parameters" />
+      <module name="hystrix_client_example4" options="-parameters" />
+      <module name="hystrix_turbine" options="-parameters" />
+      <module name="zuul_server" options="-parameters" />
     </option>
   </component>
 </project>

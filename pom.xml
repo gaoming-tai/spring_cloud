@@ -13,6 +13,9 @@
         <module>eureka_client_example1</module>
         <module>eureka_client_example2</module>
         <module>feign_client_example3</module>
+        <module>hystrix_client_example4</module>
+        <module>hystrix_turbine</module>
+        <module>zuul_server</module>
     </modules>
 
     <parent>

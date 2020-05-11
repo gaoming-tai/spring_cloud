@@ -35,7 +35,12 @@ public class UserController {
     @ApiOperation(value="查用户信息",notes="根据用户名查用户信息")
     @ApiImplicitParam(name="name",value="用户名",required = true,dataType = "String")
     @RequestMapping(value ="/query", method = {RequestMethod.POST,RequestMethod.GET})
-    public User queryUsers(@RequestParam String name){
+    public User queryUsers(@RequestParam String name) {
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         logger.info("查询用户--info:"+name);
         logger.info("ip:"+environment.getProperty("spring.cloud.client.ip-address"));
         logger.info("port:"+environment.getProperty("server.port"));

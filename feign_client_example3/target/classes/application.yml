@@ -1,6 +1,10 @@
 spring:
   application:
     name: feign-client-example3 #指定应用名称 名称不可用下划线分割
+  cloud:
+    loadbalancer:
+      retry:
+        enabled: true  #开启触发重试
 #指定服务端口
 server:
   port: 9003
@@ -15,9 +19,27 @@ feign:
   client:
     config:
       eureka-client-example1:
-        loggerLevel: BASIC
+        loggerLevel: FULL
+  hystrix:
+    enabled: true #开启hystrix配置
+
+#设置hystrix超时时间为3000ms,之后才调用降级方法，默认1000ms
+hystrix:
+    command:
+      default:
+        execution:
+          isolation:
+            thread:
+              timeoutInMilliseconds: 3000
 logging:
   level:
     com.tai.feign.feign.FeignClientInterface: debug
-
-
+ribbon:
+  ReadTimeout: 5000 #负载均衡超时时间，默认值5000
+  ConnectTimeout: 5000 #ribbon请求连接的超时时间，默认值2000
+#actuator数据监控页面配置
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

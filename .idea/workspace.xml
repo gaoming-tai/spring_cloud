@@ -1,43 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f88ef6a-f8d4-473a-a555-482c1bdc3a6b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/feign_client_example3/feign_client_example3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign_client_example3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign_client_example3/src/main/java/com/tai/feign/FeignClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign_client_example3/src/main/java/com/tai/feign/controller/CallOtherClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign_client_example3/src/main/java/com/tai/feign/domain/T_bh_dcasemsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign_client_example3/src/main/java/com/tai/feign/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign_client_example3/src/main/java/com/tai/feign/feign/FeignClientInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign_client_example3/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/feign_client_example3/src/main/resources/log4j.properties" afterDir="false" />
+    <list default="true" id="6f88ef6a-f8d4-473a-a555-482c1bdc3a6b" name="Default" comment="hystrix熔断器">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/eureka_client_example1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/eureka_client_example1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/EurekaClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/EurekaClientApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/controller/TbhCaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/controller/TbhCaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_client_example1/src/main/java/com/tai/eureka/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/src/main/java/com/tai/eureka/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_client_example1/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/dao/TbhCaseMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/dao/TbhCaseMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/dao/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/dao/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/domain/ConfigProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/domain/ConfigProperty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/domain/T_bh_dcasemsg.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/domain/T_bh_dcasemsg.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/interceptor/DefaultHandlerInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/interceptor/DefaultHandlerInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/service/TbhCaseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/service/TbhCaseService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/service/impl/TbhCaseServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/service/impl/TbhCaseServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example1/target/classes/com/tai/eureka/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_client_example2/src/main/java/com/tai/eureka/controller/CallOtherClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example2/src/main/java/com/tai/eureka/controller/CallOtherClientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_server/eureka_server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server/eureka_server.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka_server/target/classes/com/tai/eureka/EurekaServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server/target/classes/com/tai/eureka/EurekaServerApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/eureka_client1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/eureka_client1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/eureka_client2.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/eureka_client2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/spring_cloud.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/spring_cloud.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_client_example2/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_client_example2/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka_server/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka_server/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign_client_example3/feign_client_example3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/feign_client_example3/feign_client_example3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign_client_example3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feign_client_example3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign_client_example3/src/main/java/com/tai/feign/FeignClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign_client_example3/src/main/java/com/tai/feign/FeignClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign_client_example3/src/main/java/com/tai/feign/feign/FeignClientInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/feign_client_example3/src/main/java/com/tai/feign/feign/FeignClientInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign_client_example3/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/feign_client_example3/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign_client_example3/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/feign_client_example3/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign_client_example3/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/feign_client_example3/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign_client_example3/target/classes/com/tai/feign/FeignClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/feign_client_example3/target/classes/com/tai/feign/FeignClientApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feign_client_example3/target/classes/com/tai/feign/feign/FeignClientInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/feign_client_example3/target/classes/com/tai/feign/feign/FeignClientInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka_client1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka_client1.log.2020-04-22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka_client1.log.2020-04-23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka_client1.log.2020-04-24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka_client1.log.2020-04-26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka_client1.log.2020-04-27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka_client2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka_client2.log.2020-04-22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka_client2.log.2020-04-23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka_client2.log.2020-04-24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka_client2.log.2020-04-26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/eureka_client2.log.2020-04-27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/feign.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/feign.log.2020-04-28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/spring_cloud.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/spring_cloud.log.2020-04-21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/spring_cloud.log.2020-04-22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/spring_cloud.log.2020-04-23" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/spring_cloud.log.2020-04-24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/spring_cloud.log.2020-04-26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/spring_cloud.log.2020-04-27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/spring_cloud.log.2020-04-28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/springboot.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +75,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -90,12 +97,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1axpRwPpO3FZZl7QMMKRxN1qIfw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -105,7 +116,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="E:\softwares(D)\elasticsearch-6.3.0\nodejs\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/feign_client_example3/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/zuul_server/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -120,15 +131,18 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tai.turbine" />
+      <recent name="com.tai.hystirx.controller" />
+      <recent name="com.tai.hystirx" />
       <recent name="com.tai.feign" />
       <recent name="com.tai.eureka" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA_workspace\spring_cloud\zuul_server\src\main\resources" />
+      <recent name="F:\IDEA_workspace\spring_cloud\hystrix_turbine\src\main\resources" />
+      <recent name="F:\IDEA_workspace\spring_cloud\hystric_client_example4\src\main\resources" />
+      <recent name="F:\IDEA_workspace\spring_cloud\hystric_client_example4\src\main\java\com\tai\hystirc" />
       <recent name="F:\IDEA_workspace\spring_cloud\feign_client_example3\src\main\resources" />
-      <recent name="F:\IDEA_workspace\spring_cloud\feign_client_example3\src\main\java\com\tai\feign" />
-      <recent name="F:\IDEA_workspace\spring_colud\eureka_client_example2\src\main\java\com\tai\eureka" />
-      <recent name="F:\IDEA_workspace\spring_colud\eureka_client_example2\src\main\resources" />
-      <recent name="F:\IDEA_workspace\spring_colud\eureka_client_example1\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -138,7 +152,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaClientExample1Application9011">
+  <component name="RunManager" selected="Spring Boot.HystrixTurbineApplication">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -363,6 +377,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HystrixClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrix_client_example4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tai.hystirx.HystrixClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixTurbineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrix_turbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tai.turbine.HystrixTurbineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -394,6 +422,8 @@
       <item itemvalue="JUnit.SpringTest.getProperties" />
       <item itemvalue="Spring Boot.EurekaClientExample1Application" />
       <item itemvalue="Spring Boot.EurekaClientExample1Application9011" />
+      <item itemvalue="Spring Boot.HystrixClientApplication" />
+      <item itemvalue="Spring Boot.HystrixTurbineApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.EurekaClientExample2Application" />
       <item itemvalue="Spring Boot.FeignClientApplication" />
@@ -401,8 +431,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.FeignClientApplication" />
-        <item itemvalue="Spring Boot.EurekaClientExample2Application" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.EurekaClientExample2Application" />
         <item itemvalue="JUnit.SpringTest.getProperties" />
       </list>
     </recent_temporary>
@@ -411,7 +441,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.20865533" />
+          <option name="contentProportion" value="0.28593507" />
           <treeState>
             <expand>
               <path>
@@ -421,12 +451,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -453,12 +478,27 @@
       <workItem from="1587861209282" duration="6477000" />
       <workItem from="1587957074335" duration="7632000" />
       <workItem from="1587978514979" duration="3489000" />
-      <workItem from="1588034058748" duration="12898000" />
+      <workItem from="1588034058748" duration="21220000" />
+      <workItem from="1588206416492" duration="3387000" />
+      <workItem from="1588776113137" duration="1861000" />
+      <workItem from="1588779988129" duration="18979000" />
+      <workItem from="1588984170430" duration="2096000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -469,6 +509,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
@@ -484,6 +525,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="383" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587906445528" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1588851771626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588851771626" />
     <state x="437" y="215" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587691629325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -492,42 +537,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="215" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587978379898" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1588908037034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1588908037034" />
     <state x="411" y="125" key="FileChooserDialogImpl" timestamp="1587692644564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="411" y="125" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587692644564" />
-    <state width="1023" height="247" key="GridCell.Tab.0.bottom" timestamp="1588123908998">
+    <state width="923" height="97" key="GridCell.Tab.0.bottom" timestamp="1588950229470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1023" height="247" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588123908998" />
-    <state width="1023" height="247" key="GridCell.Tab.0.center" timestamp="1588123908998">
+    <state width="923" height="97" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588950229470" />
+    <state width="923" height="97" key="GridCell.Tab.0.center" timestamp="1588950229470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1023" height="247" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588123908998" />
-    <state width="1023" height="247" key="GridCell.Tab.0.left" timestamp="1588123908998">
+    <state width="923" height="97" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588950229470" />
+    <state width="923" height="97" key="GridCell.Tab.0.left" timestamp="1588950229470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1023" height="247" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588123908998" />
-    <state width="1023" height="247" key="GridCell.Tab.0.right" timestamp="1588123908998">
+    <state width="923" height="97" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588950229470" />
+    <state width="923" height="97" key="GridCell.Tab.0.right" timestamp="1588950229470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1023" height="247" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588123908998" />
-    <state width="1023" height="247" key="GridCell.Tab.1.bottom" timestamp="1588123908998">
+    <state width="923" height="97" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588950229470" />
+    <state width="923" height="97" key="GridCell.Tab.1.bottom" timestamp="1588950229471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1023" height="247" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588123908998" />
-    <state width="1023" height="247" key="GridCell.Tab.1.center" timestamp="1588123908998">
+    <state width="923" height="97" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588950229471" />
+    <state width="923" height="97" key="GridCell.Tab.1.center" timestamp="1588950229470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1023" height="247" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588123908998" />
-    <state width="1023" height="247" key="GridCell.Tab.1.left" timestamp="1588123908998">
+    <state width="923" height="97" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588950229470" />
+    <state width="923" height="97" key="GridCell.Tab.1.left" timestamp="1588950229470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1023" height="247" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588123908998" />
-    <state width="1023" height="247" key="GridCell.Tab.1.right" timestamp="1588123908998">
+    <state width="923" height="97" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588950229470" />
+    <state width="923" height="97" key="GridCell.Tab.1.right" timestamp="1588950229470">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1023" height="247" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588123908998" />
+    <state width="923" height="97" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588950229470" />
     <state width="966" height="190" key="GridCell.Tab.2.bottom" timestamp="1588058942677">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -548,14 +597,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="57" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588056004450" />
-    <state width="563" height="446" key="SwitcherDM" timestamp="1587980433314">
+    <state width="563" height="446" key="SwitcherDM" timestamp="1588206695283">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="563" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1587980433314" />
-    <state x="368" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588034100608">
+    <state width="563" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1588206695283" />
+    <state x="368" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588984491802">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="368" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588034100608" />
+    <state x="368" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588984491802" />
     <state x="212" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587978585973">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -564,14 +613,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="359" y="0" width="647" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1587974845003" />
-    <state x="343" y="171" width="907" height="475" key="new project wizard" timestamp="1588056066524">
+    <state x="343" y="171" width="907" height="475" key="new project wizard" timestamp="1589183497631">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="343" y="171" width="907" height="475" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588056066524" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587975015787">
+    <state x="343" y="171" width="907" height="475" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589183497631" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588944154918">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587975015787" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588944154918" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

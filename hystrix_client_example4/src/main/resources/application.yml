@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: hystric-client-example4 #指定应用名称 名称不可用下划线分割
+#指定服务端口
+server:
+  port: 9004
+eureka:
+    instance:
+      prefer-ip-address: true #是否显示IP地址
+      instance-id: ${spring.cloud.client.ip-address}:${server.port}
+    client:
+      service-url:
+        defaultZone: http://localhost:9000/eureka/ #配置注册中心地址
+
+#配置默认连接超时时间
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          strategy: ExecutionIsolationStrategy.THREAD  #线程池隔离
+          thread:
+            timeoutInMilliseconds: 1000  #默认连接超时时间1s，若1s内没有返回数据，自动触发降级逻辑
+      circuitBreaker:
+        requestVolumeThreshold: 20 #触发熔断最小请求次数  默认20次
+        sleepWindowInMillisencods: 5000 #熔断后多少秒再次去尝试请求  默认5s
+        errorThresholdPercentage: 50 #触发熔断请求失败的最小占比 默认：50%
+

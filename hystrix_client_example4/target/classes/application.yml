@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: hystric-client-example4 #指定应用名称 名称不可用下划线分割
+#指定服务端口
+server:
+  port: 9004
+eureka:
+    instance:
+      prefer-ip-address: true #是否显示IP地址
+      instance-id: ${spring.cloud.client.ip-address}:${server.port}
+    client:
+      service-url:
+        defaultZone: http://localhost:9000/eureka/ #配置注册中心地址
+
+#配置默认连接超时时间
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 1000  #默认连接超时时间1s
