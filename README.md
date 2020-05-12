@@ -9,3 +9,10 @@
 ##3.Feign组件学习
 ##### 3.1 Feign基本入门案例
 ##### 3.2 Feign基本配置和打印日志配置
+##4.服务熔断Hystrix介绍
+#####4.1基于RestTemplate的熔断配置
+#####4.2 基于RestTemplate的统一降级配置
+#####4.3 基于Fegin调用配置Hystrix熔断降级
+#####4.4 通过Dashboard监控Hystrix 数据流
+#####4.5 使用turbine聚合hystrix所有数据流
+##5.Zuul入门案例
