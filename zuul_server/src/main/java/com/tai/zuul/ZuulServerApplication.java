@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 
 @SpringBootApplication  //启动类
 @EnableZuulProxy //开启Zuul的API网关功能
-@EnableDiscoveryClient //添加服务发现
+@EnableDiscoveryClient //添加服务发现1
 public class ZuulServerApplication {
     public static void main(String[] args) {
         SpringApplication.run(ZuulServerApplication.class, args);
