@@ -1,4 +1,4 @@
-##Eureka 组件学习记录
+## Eureka 组件学习记录
 ##### 1.1 搭建EurekaServer注册中心
 #####  1.2 将服务注册到注册中心
 ##### 1.3 Eureka中通过元数据获取服务实例信息
@@ -14,5 +14,5 @@
 ##### 4.2 基于RestTemplate的统一降级配置
 ##### 4.3 基于Fegin调用配置Hystrix熔断降级
 ##### 4.4 通过Dashboard监控Hystrix 数据流
-#####4 .5 使用turbine聚合hystrix所有数据流
+##### 4.5 使用turbine聚合hystrix所有数据流
 ## 5.Zuul入门案例
