@@ -9,12 +9,14 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>zuul_server</artifactId>
+    <artifactId>api_springCloud_gateway</artifactId>
 
     <dependencies>
+        <!--springcloud gateway 是通过netty + webflux实现
+            webflux与springmvc存在冲突，因此依赖中需要屏蔽spring-boot-starter-web依赖-->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-zuul</artifactId>
+            <artifactId>spring-cloud-starter-gateway</artifactId>
         </dependency>
         <!--eureka client依赖-->
         <dependency>
@@ -24,3 +26,4 @@
     </dependencies>
 
 </project>
+

@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: springcloud-gateway-server #指定应用名称 名称不可用下划线分割
+  #配置springcloud gateway路由
+  cloud:
+    gateway:
+      routes:
+        #配置路由：路由id、路由到微服务的uri、断言（判断） -代表其中一个元素
+        - id: client-example1
+          #uri: http://127.0.0.1:9001    #目标微服务
+          uri: lb://eureka-client-example1   #lb:// 根据服务名称从注册中心拉取服务
+          predicates:
+            #- Path=/user/**     #路由匹配条件
+            - Path=/client-exampls/** #路由规则 请求路径中所有以http://ip:port/client-exampls/**形式会转发到微服务名eureka-client-example1上
+          filters: #配置路由过滤器
+            #http://127.0.0.1:8081/client-exampls/**  ------> http://127.0.0.1:9001/**
+            - RewritePath=/client-exampls/(?<segment>.*),/$\{segment} #正则表达式 路径重写过滤器
+      discovery:
+        locator:
+          enabled: true  #配置开启根据微服务名称进行路由转发
+          lower-case-service-id: true #微服务名称以小写形式呈现
+#指定服务端口
+server:
+  port: 8081
+#配置注册中心
+eureka:
+  instance:
+    prefer-ip-address: true #是否显示IP地址
+    instance-id: ${spring.cloud.client.ip-address}:${server.port}
+  client:
+    service-url:
+      defaultZone: http://localhost:9000/eureka/ #配置注册中心地址
