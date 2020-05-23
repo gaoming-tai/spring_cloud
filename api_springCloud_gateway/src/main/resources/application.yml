@@ -1,3 +1,6 @@
+#指定服务端口
+server:
+  port: 8081
 spring:
   application:
     name: springcloud-gateway-server #指定应用名称 名称不可用下划线分割
@@ -13,15 +16,44 @@ spring:
             #- Path=/user/**     #路由匹配条件
             - Path=/client-exampls/** #路由规则 请求路径中所有以http://ip:port/client-exampls/**形式会转发到微服务名eureka-client-example1上
           filters: #配置路由过滤器
+            #filiter 限流
+            - name: RequestRateLimiter
+              args:
+                #使用SpEL从容器中获取对象
+                key-resolver: '#{@pathKeyResolver}'
+                #令牌桶每秒填充速率
+                request-rate-limiter.replenishRate: 1
+                #令牌桶上限
+                request-rate-limiter.burstCapacity: 3
             #http://127.0.0.1:8081/client-exampls/**  ------> http://127.0.0.1:9001/**
             - RewritePath=/client-exampls/(?<segment>.*),/$\{segment} #正则表达式 路径重写过滤器
       discovery:
         locator:
           enabled: true  #配置开启根据微服务名称进行路由转发
           lower-case-service-id: true #微服务名称以小写形式呈现
-#指定服务端口
-server:
-  port: 8081
+  #zipkin server配置
+  zipkin:
+    #base-url: http://127.0.0.1:9411 #zipkin服务端接收链路数据路径
+    sender:
+      #type: web #数据传输方式  以http形式向zipkin server端发送数据
+      type: rabbit #向rabbitmq中发送消息
+  #sleuth 配置
+  sleuth:
+    sampler:
+      probability: 1 #采样比  收集链路数据比例，1表示收集所有的请求链路数据  0.1表示只接收十分之请求链路日志数据
+  #rabbitmq 配置
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    listener: #配置重试策略
+      direct:
+        retry:
+          enabled: true
+      simple:
+        retry:
+          enabled: true
 #配置注册中心
 eureka:
   instance:
@@ -30,3 +62,9 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:9000/eureka/ #配置注册中心地址
+#配置链路追踪日志输出
+logging:
+  level:
+    root: INFO
+    org.springframework.web.servlet.DispatcherServlet: DEBUG
+    org.springframework.cloud.sleuth: DEBUG

@@ -4,9 +4,32 @@ spring:
         active: dev  #加载application-dev.properties文件
   application:
     name: eureka-client-example1 #设置服务实例名称 名称不可用下划线分割
+  #zipkin server配置
+  zipkin:
+    #base-url: http://127.0.0.1:9411 #zipkin服务端接收链路数据路径
+    sender:
+      #type: web #数据传输方式  以http形式向zipkin server端发送数据
+      type: rabbit #向rabbitmq中发送消息
+  #sleuth 配置
+  sleuth:
+    sampler:
+      probability: 1 #采样比  收集链路数据比例，1表示收集所有的请求链路数据  0.1表示只接收十分之请求链路日志数据
+  #rabbitmq 配置
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    listener: #配置重试策略
+      direct:
+        retry:
+          enabled: true
+      simple:
+        retry:
+          enabled: true
 #配置端口号
 server:
-  port: 9011
+  port: 9001
 
 
 eureka:
@@ -16,3 +39,9 @@ eureka:
   client:
     service-url:
           defaultZone: http://localhost:9000/eureka/ #配置注册中心地址
+#配置链路追踪日志输出
+logging:
+  level:
+    root: INFO
+    org.springframework.web.servlet.DispatcherServlet: DEBUG
+    org.springframework.cloud.sleuth: DEBUG

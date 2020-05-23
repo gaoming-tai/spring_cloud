@@ -1,10 +1,8 @@
 package com.tai.gateway.filiter;
 
-import org.apache.commons.lang.StringUtils;
 import org.springframework.cloud.gateway.filter.GatewayFilterChain;
 import org.springframework.cloud.gateway.filter.GlobalFilter;
 import org.springframework.core.Ordered;
-import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Component;
 import org.springframework.web.server.ServerWebExchange;
 import reactor.core.publisher.Mono;
@@ -21,7 +19,7 @@ public class LoginFiliter implements GlobalFilter, Ordered {
     **/
     public Mono<Void> filter(ServerWebExchange exchange, GatewayFilterChain chain) {
         System.out.println("执行了登录过滤器...");
-        //获取access-token 参数
+       /* //获取access-token 参数
         String token = exchange.getRequest().getQueryParams().getFirst("access-token");
         //access-token校验
         if(StringUtils.isEmpty(token)){
@@ -29,7 +27,7 @@ public class LoginFiliter implements GlobalFilter, Ordered {
             exchange.getResponse().setStatusCode(HttpStatus.UNAUTHORIZED);
             //阻拦请求 返回
             return exchange.getResponse().setComplete();
-        }
+        }*/
         return chain.filter(exchange); //继续向下执行
     }
     /*
