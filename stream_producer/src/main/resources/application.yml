@@ -1,0 +1,23 @@
+#指定服务端口
+server:
+  port: 7001
+spring:
+  application:
+    name: stream-producer #指定应用名称 名称不可用下划线分割
+  rabbitmq: #配置消息中间件
+    addresses: 127.0.0.1
+    username: guest
+    password: guest
+  cloud:
+    stream:
+      binders: #配置绑定器
+        defaultRabbit:
+          type: rabbit
+      bindings:
+        output: #消息输出通道
+          destination: itcast-default #消息发送目的地，在rabbmit中，发送到一个itcast-default的exchange交换机
+          producer:
+            partition-key-expression: payload  #分区关键字 任意指定
+            partition-count: 2 #分区大小  即消费者个数
+        myoutput: #自定义消息输出通道
+          destination: my-itcast-default #消息发送目的地，在rabbmit中，发送到一个my-itcast-default的exchange交换机

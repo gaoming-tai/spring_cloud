@@ -1,0 +1,25 @@
+#指定服务端口
+server:
+  port: 7003
+spring:
+  application:
+    name: stream-consumer #指定应用名称 名称不可用下划线分割
+  rabbitmq: #配置消息中间件
+    addresses: 127.0.0.1
+    username: guest
+    password: guest
+  cloud:
+    stream:
+      instanceCount: 2 #消费者个数
+      instanceIndex: 1 #消费者索引  即这是第几台消费者
+      binders: #配置绑定器
+        defaultRabbit:
+          type: rabbit
+      bindings:
+        input: #消息输入通道
+            destination: itcast-default #消息输入来源，在rabbmit中，从itcast-default的exchange交换机获取消息
+            group: groupname #设置消息组名名称 （同名消息组中只会有一个消费者去消费消息）
+            consumer:
+                partitioned: true #开启分区支持
+        myinput: #自定义消息输入通道
+            destination: my-itcast-default #消息输入来源，在rabbmit中，从my-itcast-default的exchange交换机获取消息
