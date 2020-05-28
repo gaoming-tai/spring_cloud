@@ -17,6 +17,10 @@
         <module>hystrix_turbine</module>
         <module>api_zuul_server</module>
         <module>api_springCloud_gateway</module>
+        <module>stream_producer</module>
+        <module>stream_consumer</module>
+        <module>config_server</module>
+        <module>config_client_example5</module>
     </modules>
 
     <parent>
